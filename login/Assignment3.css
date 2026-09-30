@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+   
+}
+.row{
+    border: 5px rgb(221, 218, 32) solid;
+    border-radius: 30px;
+    
+   
+    
+
+}
+#sign{
+    font-family: myFont1;
+}
+.col1{
+    text-align: center;
+    border:2px black solid;
+    border-radius: 20px;
+    background-color: yellow;
+    opacity: 0.9;
+    
+}
+.col2{
+    background-color: rgb(41, 38, 38);
+   
+    border-radius: 20px;
+}
+label{
+    color: azure;
+}
+.dic{
+    text-align: center;
+    
+}
+
+input[type="checkbox"]:hover{
+    background-color: yellow;
+    
+}
+@font-face{
+    font-family: myFont1;
+    src: url(/fonts/Stopbuck.otf);
+}
+
